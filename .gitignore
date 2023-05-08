@@ -1,2 +1,5 @@
 #ENV FILE
 .env
+
+# VSCODE config
+.vscode/
